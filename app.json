@@ -3,7 +3,7 @@
   "description": "Mr Doraemon, your friendly assistant!",
   "logo": "https://files.catbox.moe/px8ew8.jpg",
   "keywords": [],
-  "repository": "https://github.com/",
+  "repository": "https://github.com/mrdoraemon219/Mr-Doraemon-.git,
   "stack": "container",
   "addons": [
     {
